@@ -1,0 +1,14 @@
+# Creative Tabs
+itemGroup.nest=Network Engineer's Toolkit
+
+# items
+item.nest:backpackT1.name=AE Backpack
+item.nest:backpackT2.name=Large AE Backpack
+
+# backpack modes
+backpack-mode.nest:locked=(LOCKED)
+backpack-mode.nest:receive=(RECEIVING)
+backpack-mode.nest:resupply=(RESUPPLY)
+
+# GUI
+gui.nest:slots=%USED/%SIZE Slots

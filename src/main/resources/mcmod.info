@@ -1,0 +1,17 @@
+[
+{
+  "modid": "NEsT",
+  "name": "Network Engineer's Toolkit",
+  "description": "Some tools for engineers maintaining larger AE2 networks",
+  "version": "0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["P3pp3rF1y"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "parent":"",
+  "dependencies": []
+}
+]
